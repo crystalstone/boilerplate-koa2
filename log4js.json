@@ -1,0 +1,32 @@
+{
+  "appenders": [
+    {
+      "type": "console"
+    },
+    {
+      "category": "projectName",
+      "type": "logLevelFilter",
+      "level": "ERROR",
+      "appender": {
+        "alwaysIncludePattern": true,
+        "type": "dateFile",
+        "filename": "server/log/errors",
+        "pattern": "-yyyy-MM-dd.log"
+      }
+    },
+    {
+      "category": "projectName",
+      "type": "logLevelFilter",
+      "level": "INFO",
+      "appender": {
+        "alwaysIncludePattern": true,
+        "type": "dateFile",
+        "filename": "server/log/infos",
+        "pattern": "-yyyy-MM-dd.log"
+      }
+    }
+  ],
+  "levels": {
+      "turbo":  "INFO"
+  }
+}

@@ -1,0 +1,322 @@
+[2016-11-17 15:59:28.440] [INFO] projectName - redisInfo: ready
+[2016-11-17 15:59:30.249] [INFO] projectName - redisInfo: ready
+[2016-11-17 15:59:30.261] [INFO] projectName - redisInfo: ready
+[2016-11-17 15:59:30.262] [INFO] projectName - redisInfo: ready
+[2016-11-17 15:59:30.329] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:00:23.085] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:00:24.516] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:00:24.525] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:00:24.538] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:00:24.541] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:00.013] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:01.436] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:01.465] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:01.451] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:01.458] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:01.477] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:01.482] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:01.497] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:01.523] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:11.105] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:12.930] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:12.960] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:13.010] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:13.019] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:13.038] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:13.041] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:13.051] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:13.072] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:44.607] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:46.146] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:46.175] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:46.158] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:46.160] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:46.186] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:46.189] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:01:46.180] [ERROR] projectName - uncaughtException { Error: bind EADDRINUSE null:3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at cb (net.js:1322:16)
+    at rr (cluster.js:625:14)
+    at Worker.<anonymous> (cluster.js:594:9)
+    at process.<anonymous> (cluster.js:765:8)
+    at emitTwo (events.js:111:20)
+    at process.emit (events.js:191:7)
+    at process.nextTick (internal/child_process.js:744:12)
+    at _combinedTickCallback (internal/process/next_tick.js:67:7)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'bind',
+  address: null,
+  port: 3000 }
+[2016-11-17 16:01:46.201] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:02:08.266] [ERROR] projectName - uncaughtException { Error: listen EADDRINUSE :::3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at Server._listen2 (net.js:1257:14)
+    at listen (net.js:1293:10)
+    at Server.listen (net.js:1389:5)
+    at Application.listen (/Users/stone/workspace/test/crystal/node_modules/koa/lib/application.js:64:26)
+    at Object.<anonymous> (/Users/stone/workspace/test/crystal/server/server.js:56:7)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 3000 }
+[2016-11-17 16:02:08.294] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:02:08.629] [ERROR] projectName - uncaughtException { Error: listen EADDRINUSE :::3000
+    at Object.exports._errnoException (util.js:1026:11)
+    at exports._exceptionWithHostPort (util.js:1049:20)
+    at Server._listen2 (net.js:1257:14)
+    at listen (net.js:1293:10)
+    at Server.listen (net.js:1389:5)
+    at Application.listen (/Users/stone/workspace/test/crystal/node_modules/koa/lib/application.js:64:26)
+    at Object.<anonymous> (/Users/stone/workspace/test/crystal/server/server.js:56:7)
+    at Module._compile (module.js:570:32)
+    at Object.Module._extensions..js (module.js:579:10)
+    at Module.load (module.js:487:32)
+  code: 'EADDRINUSE',
+  errno: 'EADDRINUSE',
+  syscall: 'listen',
+  address: '::',
+  port: 3000 }
+[2016-11-17 16:02:08.649] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:02:45.997] [INFO] projectName - redisInfo: ready
+[2016-11-17 16:03:13.824] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"SKU7foozIOoO3vlrAFrLH8a7Iph7vSY5","isParallel":0,"api":"http://127.0.0.1:8002/bpm/conversion/search.json","currentAttempt":1,"method":"get","request":{"pageNo":1,"pageSize":20,"sort":"DESC","columnName":"createTime","category":"pending"},"response":"","cost":15,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/bpm/conversion/search.json?pageNo=1&pageSize=20&sort=DESC&columnName=createTime&category=pending failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:14.418] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"HIGll3_mn_wWMd90_8ZHeCAlLZE1VWwA","isParallel":0,"api":"http://127.0.0.1:8002/bpm/conversion/search.json","currentAttempt":1,"method":"get","request":{"pageNo":1,"pageSize":20,"sort":"DESC","columnName":"createTime","category":"pending"},"response":"","cost":2,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/bpm/conversion/search.json?pageNo=1&pageSize=20&sort=DESC&columnName=createTime&category=pending failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:18.831] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"SKU7foozIOoO3vlrAFrLH8a7Iph7vSY5","isParallel":0,"api":"http://127.0.0.1:8002/bpm/conversion/search.json","currentAttempt":2,"method":"get","request":{"pageNo":1,"pageSize":20,"sort":"DESC","columnName":"createTime","category":"pending"},"response":"","cost":5022,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/bpm/conversion/search.json?pageNo=1&pageSize=20&sort=DESC&columnName=createTime&category=pending failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:18.834] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"MH60BSEwe2XgH1I_sb8QdUP07lGQXzxe","isParallel":0,"api":"http://127.0.0.1:8002/blacklist/detail.json","currentAttempt":1,"method":"post","request":{"pageNo":1,"pageSize":20,"sort":"DESC","columnName":"createTime","category":"pending"},"response":"","cost":2,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/blacklist/detail.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:19.423] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"HIGll3_mn_wWMd90_8ZHeCAlLZE1VWwA","isParallel":0,"api":"http://127.0.0.1:8002/bpm/conversion/search.json","currentAttempt":2,"method":"get","request":{"pageNo":1,"pageSize":20,"sort":"DESC","columnName":"createTime","category":"pending"},"response":"","cost":5007,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/bpm/conversion/search.json?pageNo=1&pageSize=20&sort=DESC&columnName=createTime&category=pending failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:19.426] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"6eTLw-_EVHdRHXjtFzeJmPSE1sfuqDHa","isParallel":0,"api":"http://127.0.0.1:8002/blacklist/detail.json","currentAttempt":1,"method":"post","request":{"pageNo":1,"pageSize":20,"sort":"DESC","columnName":"createTime","category":"pending"},"response":"","cost":2,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/blacklist/detail.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:23.837] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"MH60BSEwe2XgH1I_sb8QdUP07lGQXzxe","isParallel":0,"api":"http://127.0.0.1:8002/blacklist/detail.json","currentAttempt":2,"method":"post","request":{"pageNo":1,"pageSize":20,"sort":"DESC","columnName":"createTime","category":"pending"},"response":"","cost":5005,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/blacklist/detail.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:23.841] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"agUbJ3pZLbXQsB90WT4TJMgDh0iNFAOJ","isParallel":0,"api":"http://127.0.0.1:8002/bpm/conversion/search.json","currentAttempt":1,"method":"get","request":{},"response":"","cost":1,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/bpm/conversion/search.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:23.841] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"agUbJ3pZLbXQsB90WT4TJMgDh0iNFAOJ","isParallel":0,"api":"http://127.0.0.1:8002/blacklist/detail.json","currentAttempt":1,"method":"get","request":{},"response":"","cost":2,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/blacklist/detail.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:24.428] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"6eTLw-_EVHdRHXjtFzeJmPSE1sfuqDHa","isParallel":0,"api":"http://127.0.0.1:8002/blacklist/detail.json","currentAttempt":2,"method":"post","request":{"pageNo":1,"pageSize":20,"sort":"DESC","columnName":"createTime","category":"pending"},"response":"","cost":5004,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/blacklist/detail.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:24.431] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"vFqlvqu1MP4sGSGKBjnJPBc9BDUmN1Lw","isParallel":0,"api":"http://127.0.0.1:8002/bpm/conversion/search.json","currentAttempt":1,"method":"get","request":{},"response":"","cost":2,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/bpm/conversion/search.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:24.432] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"vFqlvqu1MP4sGSGKBjnJPBc9BDUmN1Lw","isParallel":0,"api":"http://127.0.0.1:8002/blacklist/detail.json","currentAttempt":1,"method":"get","request":{},"response":"","cost":3,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/blacklist/detail.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:28.854] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"agUbJ3pZLbXQsB90WT4TJMgDh0iNFAOJ","isParallel":0,"api":"http://127.0.0.1:8002/bpm/conversion/search.json","currentAttempt":2,"method":"get","request":{},"response":"","cost":5015,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/bpm/conversion/search.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:28.855] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"agUbJ3pZLbXQsB90WT4TJMgDh0iNFAOJ","isParallel":0,"api":"http://127.0.0.1:8002/blacklist/detail.json","currentAttempt":2,"method":"get","request":{},"response":"","cost":5016,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/blacklist/detail.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:28.855] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","isParallel":1,"api":["ehr:bpm/conversion/search.json","ehr:blacklist/detail.json"],"method":["get","get"],"request":[{},{}],"response":"","cost":5017,"err":{}}
+[2016-11-17 16:03:28.871] [ERROR] projectName - server error ReferenceError: user is not defined
+    at eval (eval at compile (/Users/stone/workspace/test/crystal/node_modules/ejs/lib/ejs.js:495:12), <anonymous>:7:23)
+    at eval (eval at compile (/Users/stone/workspace/test/crystal/node_modules/ejs/lib/ejs.js:495:12), <anonymous>:9:10)
+    at returnedFn (/Users/stone/workspace/test/crystal/node_modules/ejs/lib/ejs.js:524:17)
+    at render (/Users/stone/workspace/test/crystal/node_modules/koa-ejs/index.js:89:15)
+    at next (native)
+    at Object.app.context.render (/Users/stone/workspace/test/crystal/node_modules/koa-ejs/index.js:98:23)
+    at next (native)
+    at onFulfilled (/Users/stone/workspace/test/crystal/node_modules/co/index.js:65:19) { request: 
+   { method: 'GET',
+     url: '/home',
+     header: 
+      { host: 'localhost:3000',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-encoding': 'gzip, deflate, sdch, br',
+        'accept-language': 'zh-CN,zh;q=0.8' } },
+  response: { status: 404, message: 'Not Found', header: {} },
+  app: { subdomainOffset: 2, proxy: false, env: 'development' },
+  originalUrl: '/home',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>' }
+[2016-11-17 16:03:29.434] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"vFqlvqu1MP4sGSGKBjnJPBc9BDUmN1Lw","isParallel":0,"api":"http://127.0.0.1:8002/bpm/conversion/search.json","currentAttempt":2,"method":"get","request":{},"response":"","cost":5005,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/bpm/conversion/search.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:29.435] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","uid":"vFqlvqu1MP4sGSGKBjnJPBc9BDUmN1Lw","isParallel":0,"api":"http://127.0.0.1:8002/blacklist/detail.json","currentAttempt":2,"method":"get","request":{},"response":"","cost":5006,"err":{"name":"FetchError","message":"request to http://127.0.0.1:8002/blacklist/detail.json? failed, reason: connect ECONNREFUSED 127.0.0.1:8002","type":"system","errno":"ECONNREFUSED","code":"ECONNREFUSED"}}
+[2016-11-17 16:03:29.436] [ERROR] projectName - fetchInfo:{"pageUrl":"/home","isParallel":1,"api":["ehr:bpm/conversion/search.json","ehr:blacklist/detail.json"],"method":["get","get"],"request":[{},{}],"response":"","cost":5007,"err":{}}
+[2016-11-17 16:03:29.439] [ERROR] projectName - server error ReferenceError: user is not defined
+    at eval (eval at compile (/Users/stone/workspace/test/crystal/node_modules/ejs/lib/ejs.js:495:12), <anonymous>:7:23)
+    at eval (eval at compile (/Users/stone/workspace/test/crystal/node_modules/ejs/lib/ejs.js:495:12), <anonymous>:9:10)
+    at returnedFn (/Users/stone/workspace/test/crystal/node_modules/ejs/lib/ejs.js:524:17)
+    at render (/Users/stone/workspace/test/crystal/node_modules/koa-ejs/index.js:89:15)
+    at next (native)
+    at Object.app.context.render (/Users/stone/workspace/test/crystal/node_modules/koa-ejs/index.js:98:23)
+    at next (native)
+    at onFulfilled (/Users/stone/workspace/test/crystal/node_modules/co/index.js:65:19) { request: 
+   { method: 'GET',
+     url: '/home',
+     header: 
+      { host: 'localhost:3000',
+        connection: 'keep-alive',
+        pragma: 'no-cache',
+        'cache-control': 'no-cache',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.71 Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'accept-encoding': 'gzip, deflate, sdch, br',
+        'accept-language': 'zh-CN,zh;q=0.8' } },
+  response: { status: 404, message: 'Not Found', header: {} },
+  app: { subdomainOffset: 2, proxy: false, env: 'development' },
+  originalUrl: '/home',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>' }
